@@ -11,7 +11,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 
 [Milwaukee M12 Files](MilwaukeeM12/README.md)
 
-### Abopiut Wallcontrol
+### About Wallcontrol
 
 Wallcontrol makes amazing metal slotted pegboard!
 
