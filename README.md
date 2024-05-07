@@ -9,21 +9,18 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
     <tr>
         <td style='text-align:center;'>
             <a href="Vinyl/README.md">
-                <img src="Vinyl/SilhouetteCameo4Pro.jpg" alt="drawing" width="400"/>
+                <img src="Vinyl/SilhouetteCameo4Pro.jpg" width="400"/>
                 <p>Vinyl Cutter Models</p>
             </a>
         </td>
         <td style='text-align:center;'>
             <a href="MilwaukeeM12/README.md">
-                <img src="MilwaukeeM12/Milwaukee.jpg" alt="drawing" width="400"/>
+                <img src="MilwaukeeM12/Milwaukee.jpg" width="400"/>
                 <p>Milwaukee Tool Models</p>
             </a>
         </td>
     </tr>
 </table>
-
-
-[Milwaukee M12 Files](MilwaukeeM12/README.md)
 
 ### About Wallcontrol
 
