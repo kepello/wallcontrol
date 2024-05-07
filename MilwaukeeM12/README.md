@@ -10,7 +10,7 @@ RECIPE:
 4x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)<br>
 1x [Left Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Left.stl)<br>
 1x [Right Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Right.stl)<br>
-1x [Drill Driver](DrillDriver.stl)
+1x [Drill Driver](Drill Driver.stl)
 
 
 ## Hex Driver (2401-20)
@@ -21,7 +21,7 @@ RECIPE:
 4x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)<br>
 1x [Left Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Left.stl)<br>
 1x [Right Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Right.stl)<br>
-1x [Hex Driver](HexDriver.stl)
+1x [Hex Driver](Hex Driver.stl)
 
 ## Hex Impact Driver (2462-20)
 <img src="HexImpactDriver.jpeg" alt="drawing" width="200"/>
@@ -31,4 +31,4 @@ RECIPE:
 4x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)<br>
 1x [Left Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Left.stl)<br>
 1x [Right Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Right.stl)<br>
-1x [Hex Impact Driver](HexImpactDriver.stl)
+1x [Hex Impact Driver](Hex ImpactDriver.stl)
