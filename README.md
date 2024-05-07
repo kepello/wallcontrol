@@ -42,5 +42,5 @@ I prefer creating my accessories leaving holes for connecting pins .  This is ea
 
 Pin Dimensions:  4mm Tall, 4mm Deep, 10mm Wide
 
-    Pin:    [https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl]
-    Sides:  [https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Sidepieces/Flats]
+Pin:    [Pin Model](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)
+Sides:  [Flat Sides](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Sidepieces/Flats)
