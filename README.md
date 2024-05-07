@@ -16,7 +16,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
         </td>
         <td>
             <a href="MilwaukeeM12/README.md">
-                <img src="MilwaukeeM12/Milwaukee.jpg" width="400"/>
+                <img src="MilwaukeeM12/MilwaukeeLogo.png" width="400"/>
                 <p>Milwaukee Tool Models</p>
             </a>
         </td>
