@@ -2,7 +2,7 @@
 
 I used these to hold rolls of vinyl for my vinyl cutter (Sillhouette Cameo Pro).  Because I use both 12" and 24" rolls, I made the bottom holder and the support center separate.  This allows you to space them at whatever height you desire.
 
-<img src="VinylRoll.jpg" width="400"/>
+<img src="VinylRoll.jpg" height="400"/>
                 
 RECIPE: 
 
