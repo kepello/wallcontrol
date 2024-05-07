@@ -3,7 +3,7 @@
 I use these to hold my Milwaukee M12 tools.
 
 ## Drill Driver (2407-20)
-<img src="DrillDriver.png" alt="drawing" width="200"/>
+<img src="DrillDriver.jpg" alt="drawing" width="200"/>
 
 RECIPE: 
 <ul>
@@ -14,7 +14,7 @@ RECIPE:
 </ul>
 
 ## Hex Driver (2401-20)
-<img src="HexDriver.png" alt="drawing" width="200"/>
+<img src="HexDriver.jpg" alt="drawing" width="200"/>
 
 RECIPE: 
 <ul>
