@@ -7,7 +7,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 
 ### Categories
 
-[Vinyl Cutter Files](VinylCutter/README.md)
+[Vinyl Files](Vinyl/README.md)
 
 [Milwaukee M12 Files](MilwaukeeM12/README.md)
 
