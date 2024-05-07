@@ -47,6 +47,7 @@ These are the dimensions I have found to be compatible with the DDD system.  The
     <li>150 mm</li>
     <li>175.4 mm</li>
 </ol>
+
 ### Height
 
 25.2 + (25.4 * (y-1))       Where y is the height of accessories in hole spaces (1 inch on center)
@@ -56,6 +57,7 @@ These are the dimensions I have found to be compatible with the DDD system.  The
     <li>76 mm</li>
     <li>101.4 mm</li>
 </ol>
+
 ### Connecting Pins
 
 I prefer creating my accessories leaving holes for connecting pins .  This is easier to align and print without dealing with supports on my machine.  DDD provides the model for these connecting pins as well as compatible sides.
