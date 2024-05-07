@@ -11,7 +11,7 @@ I used these to hold rolls of vinyl for my vinyl cutter (Sillhouette Cameo Pro).
 
 RECIPE:   2 Pins, 1 Left Flat Side, 1 Right Flat Side, 1 Bottom, 1 Support
 
-<img src="VinylHolder.png" alt="drawing" width="100"/>
+<img src="VinylHolder.png" alt="drawing" width="200"/>
 
 ### Wall Control Design
 
