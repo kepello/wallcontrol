@@ -6,8 +6,8 @@ I used these to hold rolls of vinyl for my vinyl cutter (Sillhouette Cameo Pro).
 
 RECIPE: 
 <ul>
-    <li>2 Pins</li>
-    <li>1 Left Flat Side</li>
-    <li>1 Right Flat Side</li>
-    <li>1 Vinyl Holder (2 parts)</li>
+    <li>2x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)</li>
+    <li>1x [Left Flat Side](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/1x0%20Flat%20Left.stl)</li>
+    <li>1x [Right Flat Side](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/1x0%20Flat%20Right.stl)</li>
+    <li>1x Vinyl Holder (2 parts)</li>
 </ul>
