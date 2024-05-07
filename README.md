@@ -8,6 +8,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 ### Wall Control Design
 
 1/4" Holes on 1 inch center grid
+
 1" Vertical slots, every 2nd row of holes
 
 ## DDD Compatibility
