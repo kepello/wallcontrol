@@ -10,7 +10,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 <figure>
     <figcaption>Vinyl Cutter Miles</figcaption>
     <a href="Vinyl/README.md">
-        <img src="Vinyl/SilhouetteCameo4Pro.jpg" alt="drawing" width="400"/>
+<img src="Vinyl/SilhouetteCameo4Pro.jpg" alt="drawing" width="400"/>
     </a>
 </figure>
 
