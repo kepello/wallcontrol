@@ -10,9 +10,9 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 Wallcontrol makes amazing metal slotted pegboard!
 
 The dimensions are as follows:
-![image](WallcontrolSpacing.png "Spacing")
 
 1/4" Holes on 1 inch center grid
+<img src="WallcontrolSpacing.png" alt="drawing" width="200"/>
 
 1" Vertical slots, every 2nd row of holes
 
