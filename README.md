@@ -5,14 +5,23 @@
 These are 3d printable accessories that I have created or modified to organize my space.
 They are based on the excellent DDD system by aderusah (https://github.com/aderusha/DDD-Printable-Wall-Control-System)
 
+<table>
+    <tr>
+        <td style='text-align:center;'>
+            <a href="Vinyl/README.md">
+                <img src="Vinyl/SilhouetteCameo4Pro.jpg" alt="drawing" width="400"/>
+                <p>Vinyl Cutter Models</p>
+            </a>
+        </td>
+        <td style='text-align:center;'>
+            <a href="MilwaukeeM12/README.md">
+                <img src="MilwaukeeM12/Milwaukee.jpg" alt="drawing" width="400"/>
+                <p>Milwaukee Tool Models</p>
+            </a>
+        </td>
+    </tr>
+</table>
 
-
-<figure>
-    <figcaption>Vinyl Cutter Miles</figcaption>
-    <a href="Vinyl/README.md">
-<img src="Vinyl/SilhouetteCameo4Pro.jpg" alt="drawing" width="400"/>
-    </a>
-</figure>
 
 [Milwaukee M12 Files](MilwaukeeM12/README.md)
 
