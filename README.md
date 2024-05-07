@@ -9,7 +9,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 
 I used these to hold rolls of vinyl for my vinyl cutter (Sillhouette Cameo Pro).  Because I use both 12" and 24" rolls, I made the bottom holder and the support center separate.  This allows you to space them at whatever height you desire.
 
-####RECIPE:   2 Pins, 1 Left Flat Side, 1 Right Flat Side, 1 Bottom, 1 Support
+#### RECIPE:   2 Pins, 1 Left Flat Side, 1 Right Flat Side, 1 Bottom, 1 Support
 
 <img src="VinylHolder.png" alt="drawing" width="200"/>
 
