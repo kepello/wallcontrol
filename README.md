@@ -5,11 +5,9 @@
 These are 3d printable accessories that I have created or modified to organize my space.
 They are based on the excellent DDD system by aderusah (https://github.com/aderusha/DDD-Printable-Wall-Control-System)
 
-### Categories
+[Vinyl Files](Vinyl/README.md)
 
-[### Vinyl Files](Vinyl/README.md)
-
-[### Milwaukee M12 Files](MilwaukeeM12/README.md)
+[Milwaukee M12 Files](MilwaukeeM12/README.md)
 
 ### About Wallcontrol
 
