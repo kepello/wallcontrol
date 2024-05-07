@@ -8,16 +8,16 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 <br>
 <table>
     <tr>
-        <td style='text-align:center;'>
+        <td>
             <a href="Vinyl/README.md">
                 <img src="Vinyl/SilhouetteCameo4Pro.jpg" width="400"/>
                 <p>Vinyl Cutter Models</p>
             </a>
         </td>
-        <td style='text-align:center;'>
+        <td>
             <a href="MilwaukeeM12/README.md">
                 <img src="MilwaukeeM12/Milwaukee.jpg" width="400"/>
-                <p style='text-align:center;'>Milwaukee Tool Models</p>
+                <p>Milwaukee Tool Models</p>
             </a>
         </td>
     </tr>
