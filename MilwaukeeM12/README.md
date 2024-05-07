@@ -25,7 +25,7 @@ RECIPE:
 </ul>
 
 ## Hex Impact Driver (2462-20)
-<img src="HexImpactDriver.png" alt="drawing" width="200"/>
+<img src="HexImpactDriver.jpeg" alt="drawing" width="200"/>
 
 RECIPE: 
 <ul>
