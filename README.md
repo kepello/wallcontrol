@@ -5,6 +5,14 @@
 These are 3d printable accessories that I have created or modified to organize my space.
 They are based on the excellent DDD system by aderusah (https://github.com/aderusha/DDD-Printable-Wall-Control-System)
 
+### Vinyl Roll Holder
+
+I used these to hold rolls of vinyl for my vinyl cutter (Sillhouette Cameo Pro).  Because I use both 12" and 24" rolls, I made the bottom holder and the support center separate.  This allows you to space them at whatever height you desire.
+
+RECIPE:   2 Pins, 1 Left Flat Side, 1 Right Flat Side, 1 Bottom, 1 Support
+
+<img src="VinylHolder.png" alt="drawing" width="100"/>
+
 ### Wall Control Design
 
 Wallcontrol makes amazing metal slotted pegboard!
@@ -12,8 +20,6 @@ Wallcontrol makes amazing metal slotted pegboard!
 The dimensions are 1/4" Holes on 1" center grid, 1" high slots on every other row.
 
 <img src="WallcontrolSpacing.png" alt="drawing" width="400"/>
-
-1" Vertical slots, every 2nd row of holes
 
 ## DDD Compatibility
 
