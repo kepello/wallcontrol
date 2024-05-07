@@ -7,9 +7,9 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
 
 ### Categories
 
-[Vinyl Files](Vinyl/README.md)
+[### Vinyl Files](Vinyl/README.md)
 
-[Milwaukee M12 Files](MilwaukeeM12/README.md)
+[### Milwaukee M12 Files](MilwaukeeM12/README.md)
 
 ### About Wallcontrol
 
