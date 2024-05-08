@@ -62,6 +62,10 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 8.7mm for full thickness spacers.
 
+    3.5mm space
+    4 mm pin socket
+    3.5mm space
+
 ### Connecting Pins
 
 I prefer creating my accessories leaving holes for connecting pins .  This is easier to align and print without dealing with supports on my machine.  DDD provides the model for these connecting pins as well as compatible sides.
