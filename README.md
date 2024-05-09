@@ -62,9 +62,9 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 8.7mm for full thickness spacers.
 
-    3.5mm space
+    2.35mm space
     4 mm pin socket
-    3.5mm space
+    2.35mm space
 
 ### Connecting Pins
 
