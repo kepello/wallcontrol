@@ -53,7 +53,7 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 25.2 + (25.4 * (y-1))       Where y is the height of accessories in hole spaces (1 inch on center)
 <ol>
     <li>25.2 mm</li>
-    <li>50.6 mm</li>
+    <li>50.6 mm (7.6, 10, 15.4, 10, 7.6)</li>
     <li>76 mm</li>
     <li>101.4 mm</li>
 </ol>
@@ -70,7 +70,7 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
     Socket:  
     Horizontal Spacing:
-        | --- 7.7mm --- [  10mm  ] --- 15.4 --- [ 10 mm ] --- 7.7mm ---|
+        | --- 7.6mm --- [  10mm  ] --- 15.4 --- [ 10 mm ] --- 7.6mm ---|
 
 I prefer creating my accessories leaving holes for connecting pins .  This is easier to align and print without dealing with supports on my machine.  DDD provides the model for these connecting pins as well as compatible sides.
 
