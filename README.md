@@ -68,6 +68,10 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 ### Connecting Pins
 
+    Socket:  
+    Horizontal Spacing:
+        | --- 7.7mm --- [  10mm  ] --- 15.4 --- [ 10 mm ] --- 7.7mm ---|
+
 I prefer creating my accessories leaving holes for connecting pins .  This is easier to align and print without dealing with supports on my machine.  DDD provides the model for these connecting pins as well as compatible sides.
 
 Pin Dimensions:  4mm Tall, 4mm Deep, 10mm Wide
