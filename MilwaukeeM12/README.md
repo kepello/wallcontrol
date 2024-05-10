@@ -50,9 +50,9 @@ RECIPE:
      --AND--<br>
 1x [M12 Battery Holder -- 1](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x2_milwaukee_M12_battery_x1.stl)<br>
      --OR--<br>
-1x [M12 Battery Holder -- 2](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x2_milwaukee_M12_battery_x2.stl)<br>
+1x [M12 Battery Holder -- 2](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x5_milwaukee_M12_battery_x2.stl)<br>
      --OR--<br>
-1x [M12 Battery Holder -- 3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x2_milwaukee_M12_battery_x3.stl)<br>
+1x [M12 Battery Holder -- 3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x8_milwaukee_M12_battery_x3.stl)<br>
 
 
 
