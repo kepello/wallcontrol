@@ -34,7 +34,7 @@ RECIPE:
 1x [Hex Impact Driver](Hex&#32;Impact.stl)
 
 ## M12 Battery Charger ()
-<img src="M12&#32;Charger.jpeg" alt="drawing" width="200"/>
+<img src="M12&#32;Charger.jpg" alt="drawing" width="200"/>
 
 4x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)<br>
 1x [Left Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Left.stl)<br>
