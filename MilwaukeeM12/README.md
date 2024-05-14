@@ -2,7 +2,7 @@
 
 I use these to hold my Milwaukee M12 tools.
 
-## Generic M12 Tool
+## Generic M12 Tool Holder
 <img src="M12HolderStraight.png" alt="drawing" width="200"/>
 
 RECIPE:
