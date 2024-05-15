@@ -84,8 +84,6 @@ RECIPE:
 1x [M12 Battery Charger](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/4x3%20Milwaukee%20M12%20Charger.stl)
 
 </td>
-</tr>
-<tr>
 <td>
     
 ## M12 Battery Holders ()
