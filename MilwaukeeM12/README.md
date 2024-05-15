@@ -58,9 +58,6 @@ RECIPE:
 1x [Hex Driver](Hex&#32;Driver.stl)
 
 </td>
-</tr>
-
-<tr>
 <td>
 
 ## Hex Impact Driver (2462-20)
@@ -74,8 +71,10 @@ RECIPE:
 1x [Hex Impact Driver](Hex&#32;Impact.stl)
 
 </td>
+</tr>
+<tr>
 <td>
-    
+        
 ## M12 Battery Charger ()
 <img src="M12&#32;Charger.jpg" alt="drawing" width="200"/>
 
