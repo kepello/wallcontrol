@@ -5,6 +5,7 @@ I use these to hold my Milwaukee M12 tools.
 <table>
 <tr>
 <td>
+
 ## Generic M12 Tool Holder
 <img src="M12HolderStraight.png" alt="drawing" width="200"/>
 
@@ -16,6 +17,7 @@ RECIPE:
 1x [Sideways Holder](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x1_Milwaukee_M12_tool_holder_straight.stl)
 </td>
 <td>
+
 ## Extended Tool Holder
 <img src="M12HolderStraight.png" alt="drawing" width="200"/>
 
@@ -28,6 +30,7 @@ RECIPE:
 </td>
 </tr>
 </table>
+
 ## Drill Driver (2407-20)
 <img src="DrillDriver.jpg" alt="drawing" width="200"/>
 
