@@ -42,7 +42,8 @@ RECIPE:
 1x [Drill Driver](Drill&#32;Driver.stl)
 
 </td>
-
+<td>
+    
 ## Hex Driver (2401-20)
 <img src="HexDriver.jpg" alt="drawing" width="200"/>
 
@@ -53,8 +54,8 @@ RECIPE:
 1x [Right Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Right.stl)<br>
 1x [Hex Driver](Hex&#32;Driver.stl)
 
+</td>
 </tr>
-</table>
 
 ## Hex Impact Driver (2462-20)
 <img src="HexImpactDriver.jpeg" alt="drawing" width="200"/>
@@ -87,4 +88,4 @@ RECIPE:
      --OR--<br>
 1x [M12 Battery Holder -- 3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x8_milwaukee_M12_battery_x3.stl)<br>
 
-
+</table>
