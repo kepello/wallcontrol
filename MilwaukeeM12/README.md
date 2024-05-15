@@ -29,7 +29,7 @@ RECIPE:
 1x [Sideways Holder](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x1_Milwaukee_M12_tool_holder_straight.stl)
 </td>
 </tr>
-</table>
+<tr>
 
 ## Drill Driver (2407-20)
 <img src="DrillDriver.jpg" alt="drawing" width="200"/>
@@ -41,7 +41,8 @@ RECIPE:
 1x [Right Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Right.stl)<br>
 1x [Drill Driver](Drill&#32;Driver.stl)
 
-
+</tr>
+<tr>
 ## Hex Driver (2401-20)
 <img src="HexDriver.jpg" alt="drawing" width="200"/>
 
@@ -51,6 +52,8 @@ RECIPE:
 1x [Left Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Left.stl)<br>
 1x [Right Flat Side 2x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/2x0%20Flat%20Right.stl)<br>
 1x [Hex Driver](Hex&#32;Driver.stl)
+
+</tr>
 
 ## Hex Impact Driver (2462-20)
 <img src="HexImpactDriver.jpeg" alt="drawing" width="200"/>
@@ -83,4 +86,4 @@ RECIPE:
      --OR--<br>
 1x [M12 Battery Holder -- 3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x8_milwaukee_M12_battery_x3.stl)<br>
 
-
+</table>
