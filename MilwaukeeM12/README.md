@@ -27,7 +27,7 @@ I use these to hold my Milwaukee M12 tools.
           1x [Sideways Holder](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x1_Milwaukee_M12_tool_holder_straight.stl)
           </td>
      </tr>
-     
+</table>
      ## Drill Driver (2407-20)
      <img src="DrillDriver.jpg" alt="drawing" width="200"/>
      
@@ -79,7 +79,5 @@ I use these to hold my Milwaukee M12 tools.
      1x [M12 Battery Holder -- 2](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x5_milwaukee_M12_battery_x2.stl)<br>
           --OR--<br>
      1x [M12 Battery Holder -- 3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x8_milwaukee_M12_battery_x3.stl)<br>
-
-</table>
 
 
