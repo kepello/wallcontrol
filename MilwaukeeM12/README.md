@@ -54,6 +54,7 @@ RECIPE:
 1x [Hex Driver](Hex&#32;Driver.stl)
 
 </tr>
+</table>
 
 ## Hex Impact Driver (2462-20)
 <img src="HexImpactDriver.jpeg" alt="drawing" width="200"/>
@@ -86,4 +87,4 @@ RECIPE:
      --OR--<br>
 1x [M12 Battery Holder -- 3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Centerpieces/Tool_hooks/2x8_milwaukee_M12_battery_x3.stl)<br>
 
-</table>
+
