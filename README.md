@@ -23,8 +23,8 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
     </tr>
     <tr>
         <td>
-            <a href="Jar/README.md">
-                <img src="Jar/WideMouthJars.jpg" width="400"/>
+            <a href="Jars/README.md">
+                <img src="Jars/WideMouthJars.jpg" width="400"/>
                 <p>Glass Canning Jars</p>
             </a>
         </td>
