@@ -54,6 +54,7 @@ These are the dimensions I have found to be compatible with the DDD system.  The
     <li>124.6 mm</li>
     <li>150 mm</li>
     <li>175.4 mm</li>
+    <li>205.8 mm</li>
 </ol>
 
 ### Height
