@@ -45,9 +45,6 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 ### Dimensions
 
-Width is 23mm + (25.4mm * (x-1))     Where x is the width of the accessory in slots
-Height is 25.2 + (25.4 * (y-1))       Where y is the height of accessories in hole spaces (1 inch on center)
-
 <table>
     <col>
     <colgroup span="1"></colgroup>
@@ -55,8 +52,8 @@ Height is 25.2 + (25.4 * (y-1))       Where y is the height of accessories in ho
     <colgroup span="2"></colgroup>
     <tr>
         <th colspan="1" scope="colgroup"></th>
-        <th colspan="2" scope="colgroup">Width</th>
-        <th colspan="2" scope="colgroup">Height</th>
+        <th colspan="2" scope="colgroup">Width<br>23mm + (25.4mm * (x-1))</th>
+        <th colspan="2" scope="colgroup">Height<br>25.2mm + (25.4mm * (y-1))</th>
     </tr>
     <tr>
         <th>Units</th>
