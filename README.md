@@ -47,6 +47,13 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 23mm + (25.4mm * (x-1))     Where x is the width of the accessory in slots
 <table>
+    <col>
+    <colgroup span="3"></colgroup>
+    <colgroup span="3"></colgroup>
+    <tr>
+        <th colspan="3" scope="colgroup">Width</th>
+        <th colspan="3" scope="colgroup">Height</th>
+    </tr>
     <tr>
         <th>Width</th>
         <th>mm</th>
