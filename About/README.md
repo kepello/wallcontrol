@@ -22,9 +22,12 @@ These are the dimensions I have found to be compatible with the DDD system.  The
         <th colspan="1" scope="colgroup"></th>
         <th colspan="2" scope="colgroup">Width<br>23mm + (25.4mm * (x-1))</th>
         <th colspan="2" scope="colgroup">Height<br>25.2mm + (25.4mm * (y-1))</th>
+        <th colspan="2" scope="colgroup">Depth<br>7.35 + (25.4 * x)</th>
     </tr>
     <tr>
         <th>Units</th>
+        <th>mm</th>
+        <th>in</th>
         <th>mm</th>
         <th>in</th>
         <th>mm</th>
@@ -36,55 +39,71 @@ These are the dimensions I have found to be compatible with the DDD system.  The
         <td>0.90551</td>
         <td>25.2</td>
         <td>.99213</td>
+        <td>32.75</td>
+        <td>1.25</td>
     </tr>
     <tr>
         <td>2</td>
         <td>48.4</td>
         <td>1.90551</td>
         <td>50.6</td>
-        <td>1.99213</td>
+        <td>1.99213</td> 
+        <td>57.15</td>
+        <td>2.25</td>
     </tr>
     <tr>
         <td>3</td>
         <td>73.8</td>
         <td>2.90551</td>
         <td>76</td>
-        <td>2.99213</td>
+        <td>2.99213</td> 
+        <td>82.55</td>
+        <td>3.25</td>
     </tr>
     <tr>
         <td>4</td>
         <td>99.2</td>
         <td>3.90551</td>
         <td>101.4</td>
-        <td>3.99213</td>
+        <td>3.99213</td> 
+        <td>107.95</td>
+        <td>4.25</td>
     </tr>
     <tr>
         <td>5</td>
         <td>124.6</td>
         <td>4.90551</td>
         <td>126.8</td>
-        <td>4.99213</td>
+        <td>4.99213</td> 
+        <td>133.35</td>
+        <td>5.25</td>
     </tr>
     <tr>
         <td>6</td>
         <td>150</td>
         <td>5.90551</td>
         <td>152.2</td>
-        <td>5.99213</td>            
+        <td>5.99213</td> 
+        <td>158.75</td>
+        <td>6.25</td>            
     </tr>
     <tr>
         <td>7</td>
         <td>175.4</td>
         <td>6.90551</td> 
         <td>177.6</td>
-        <td>6.99213</td>
+        <td>6.99213</td>  
+        <td>184.15</td>
+        <td>7.25</td>
     </tr>
     <tr>
         <td>8</td>
         <td>200.8</td>
         <td>7.90551</td> 
         <td>203</td>
-        <td>7.99213</td>
+        <td>7.99213</td>  
+        <td>209.55</td>
+        <td>8.25</td>
     </tr>
     <tr>
         <td>9</td>
@@ -154,10 +173,12 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 ### Connecting Pins
 
-    Socket:  
-    Horizontal Spacing:
-        | --- 7.6mm --- [  10mm  ] --- 15.4 --- [ 10 mm ] --- 7.6mm ---|
-
+    Socket:  <br>
+    Horizontal Spacing: <br>
+        | --- 7.6mm --- [  10mm  ] --- 15.4 --- [ 10 mm ] --- 7.6mm --- | <br>
+    Vertical Spacing: <br>
+        | --- 6.35 --- | --- 7.7 --- [ 10mm ] --- 15.4 --- [10 mm] --- 7.7 --- |
+    
 
 I prefer creating my accessories leaving holes for connecting pins .  This is easier to align and print without dealing with supports on my machine.  DDD provides the model for these connecting pins as well as compatible sides.
 
