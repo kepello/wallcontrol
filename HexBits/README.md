@@ -21,8 +21,8 @@ RECIPE:
 RECIPE: 
 
 6x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)<br>
-1x [Angle Bracket Inverted Left 3x5](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Angle_brackets/3x5%20Angle%20Bracket%20Inverted%20Left.stl)<br>
-1x [Angle Bracket Inverted Right 3x5](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Angle_brackets/3x5%20Angle%20Bracket%20Inverted%20Right.stl)<br>
+1x [Angle Bracket Inverted Left 2x3](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Angle_brackets/2x3%20Angle%20Bracket%20Inverted%20Flat%20Left.stl)<br>
+1x [Angle Bracket Inverted Right 2x3]()<br>
 1x [Hex Bit Storage Tray](HexBitTray.stl)
     </td>
   </tr>
