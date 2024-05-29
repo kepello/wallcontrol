@@ -1,6 +1,6 @@
 ### Drill Bit Storage
 
-I use these to hold small glass canning jars.  They work wonderfully for storing screws, nuts, bolts and other bits of hardware. They work especially well since you can see thru the glass and identify what you are looking for right away.
+I use these to sort and store drill bits.  FastCap has something similar, their KISS Drill Bit Index.  The holder is designed to sit on a shelf, allowing me to store it on the wall but move it around with me as I work if I choose.
 
 ## Drill Bit Holder
 <img src="DrillBitHolder.png" height="400"/>
