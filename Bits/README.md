@@ -15,6 +15,6 @@ RECIPE:
 RECIPE: 
 
 8x [Connecting Pin](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Accessories/4x10x8mm%20Pin.stl)<br>
-1x [Left Flat Side 1x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/1x0%20Flat%20Left.stl)<br>
-1x [Right Flat Side 1x0](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Flats/1x0%20Flat%20Right.stl)<br>
+1x [Angle Bracket Inverted Left 3x5]((https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Angle_brackets/3x5%20Angle%20Bracket%20Inverted%20Left.stl))<br>
+1x [Angle Bracket Inverted Right 3x5](https://github.com/aderusha/DDD-Printable-Wall-Control-System/blob/main/Sidepieces/Angle_brackets/3x5%20Angle%20Bracket%20Inverted%20Right.stl)<br>
 1x [Bit Storage Shelf](DrillBitShelf.stl)
