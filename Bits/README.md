@@ -7,7 +7,7 @@ I use these to sort and store drill bits.  FastCap has something similar, their 
     <td>
       
 ## Drill Bit Holder
-<img src="DrillBitHolder.png" height="400"/>
+<img src="DrillBitHolder.png" height="400" width="400"/>
                 
 RECIPE: 
 
@@ -16,7 +16,7 @@ RECIPE:
     <td>
 
 ## Drill Bit Holder Shelf
-<img src="DrillBitShelf.png" height="400"/>
+<img src="DrillBitShelf.png" height="400" width="400"/>
 
 RECIPE: 
 
