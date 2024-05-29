@@ -31,7 +31,7 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
         </td>
         <td>
             <a href="Bits/README.md" width="400"/>
-                <img src="Bits/Drill Bit Storage.png" width="400">
+                <img src="Bits/DrillBitHolder.png" width="400">
                 <p>Drill Bit Storage</p>
             </a>
         </td>
