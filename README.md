@@ -29,8 +29,6 @@ They are based on the excellent DDD system by aderusah (https://github.com/aderu
                 <p>Glass Canning Jars</p>
             </a>
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="Bits/README.md" width="400"/>
                 <img src="Bits/Drill Bit Storage.png" width="400">
