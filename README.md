@@ -1,11 +1,13 @@
-## Accessories for WallControl Organizer
+## Wall Control 3D Printed Models
 
-These are 3d printable accessories that I have created or modified to organize my space.
-They are based on the excellent DDD system by aderusah (https://github.com/aderusha/DDD-Printable-Wall-Control-System) and use the panels from <a href="http://www.wallcontrol.com">Wall Control</a>.
+These are 3d printable accessories that I have created or modified to organize my space in the garage.<br>
+I use panels from <a href="http://www.wallcontrol.com">Wall Control</a>.
+Many of my models are based on the excellent [DDD system](https://github.com/aderusha/DDD-Printable-Wall-Control-System)  by aderusah<br>
+
+### Wall Control Measurements
+<a href="About/README.md">Wall Control Measurements</a>
 <br>
-### About
-<a href="About/README.md">About Wall Control</a>
-<br>
+
 <br>
 <table>
     <tr>
