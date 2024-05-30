@@ -13,9 +13,9 @@ These are the dimensions I have found to be compatible with the DDD system.  The
     <colgroup span="2"></colgroup>
     <tr>
         <th colspan="1" scope="colgroup"></th>
-        <th colspan="2" scope="colgroup">Width<br>23mm + (25.4mm * (x-1))</th>
-        <th colspan="2" scope="colgroup">Height<br>25.2mm + (25.4mm * (y-1))</th>
-        <th colspan="2" scope="colgroup">Depth<br>7.35 + (25.4 * x)</th>
+        <th colspan="2" scope="colgroup">Width Against Wall<br>23mm + (25.4mm * (x-1))</th>
+        <th colspan="2" scope="colgroup">Height Againsty Wall<br>25.2mm + (25.4mm * (y-1))</th>
+        <th colspan="2" scope="colgroup">Depth From Wall<br>7.35 + (25.4 * x)</th>
     </tr>
     <tr>
         <th>Units</th>
