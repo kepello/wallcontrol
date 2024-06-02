@@ -2,19 +2,18 @@
 
 I use these to organize my measurement and marking tools
 
-<table>
-<tr>
-<td>
 This two part holder stores a pencil set I purchased from Amazon <br>
 <a href="https://amzn.to/3VpAreI">
   <img src="pencils.jpg" alt="Pencil Set" width="200"/>
 </a>
 
 <img src="pencilholdermodel.png" alt="Pencil Set" width="200"/>
+
+<table>
   <tr>
-      <th>Item</th>
-      <th>Holder</th>
-      <th>Recipe</th>
+    <th>Item</th>
+    <th>Holder</th>
+    <th>Recipe</th>
   </tr>
   <tr>
     <td>2x <a href="../DDD/4x10x8mm%20Pin.stl"><img src="../DDD/Pin.png"width="200"/></a></td>
@@ -23,10 +22,4 @@ This two part holder stores a pencil set I purchased from Amazon <br>
     <td>1x [Pen Holder Top](./Pen%20Holder%20Top.stl)</td>
     <td>1x [Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)</td>
   </tr>
-</table>  
-
-</td>
-<td>
-
 </table>
-
