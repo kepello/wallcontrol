@@ -11,11 +11,11 @@ I use these to organize my measurement and marking tools
   <tr>
     <td>
       <a href="https://amzn.to/3VpAreI">
-        <img src="pencils.jpg" alt="Pencil Set" width="400"/>
+        <img src="pencils.jpg" alt="Pencil Set" width="500"/>
       </a>
     </td>
     <td>
-      <img src="pencilholdermodel.png" alt="Pencil Set" width="400"/>
+      <img src="pencilholdermodel.png" alt="Pencil Set" width="500"/>
     <td>
       <table>
         <tr>
