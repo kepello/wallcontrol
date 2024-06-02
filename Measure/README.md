@@ -31,7 +31,7 @@ I use these to organize my measurement and marking tools
         <tr>
           <td>1x</td>
           <td>
-            <a href="../DDD/FlatSides/1x0%20%20Flat%20Left.stl">
+            <a href="../DDD/FlatSides/1x0%20Flat%20Left.stl">
               <img src="../Images/2FlatLeft.png" width="75"/>
               1x0 Flat Left
             </a>
@@ -40,7 +40,7 @@ I use these to organize my measurement and marking tools
         <tr>
           <td>1x</td>
           <td>
-            <a href="../DDD/FlatSides/1x0%20%20Flat%20Right.stl">
+            <a href="../DDD/FlatSides/1x0%20Flat%20Right.stl">
               <img src="../Images/2FlatRight.png" width="75"/>
               1x0 Flat Right
             </a>
