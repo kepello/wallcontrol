@@ -41,7 +41,7 @@ Many of my models are based on the excellent [DDD system](https://github.com/ade
     <tr>
         <td>               
             <a href="Measure/README.md" width="400"/>
-                <img src="../Images/measure.jpeg" width="400">
+                <img src="Images/measure.jpeg" width="400">
                 <p>Measurement</p>
             </a>
         </td>
