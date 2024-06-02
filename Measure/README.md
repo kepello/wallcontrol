@@ -28,21 +28,19 @@ I use these to organize my measurement and marking tools
         </tr>
         <tr>
           <td>1x</td>
-          <td>
-            [Left Flat Side 1x0](../DDD/FlatSides/1x0%20%20Flat%20Left.stl)
-          </td>
+          <td>[Left Flat Side 1x0](../DDD/FlatSides/1x0%20%20Flat%20Left.stl)</td>
         </tr>
         <tr>
           <td>1x</td>
-          <td>
-            </td>[Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)
-          </tr>
+          <td></td>[Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</tr>
         </tr>
         <tr>
-          <td>1x</td>[Pen Holder Top](./Pen%20Holder%20Top.stl)
+          <td>1x</td>
+          <td>[Pen Holder Top](./Pen%20Holder%20Top.stl)</td>
         </tr>
         <tr>
-          <td>1x</td>[Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)
+          <td>1x</td>
+          <td>[Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)</td>
         </tr>
       </table>
     </td>
