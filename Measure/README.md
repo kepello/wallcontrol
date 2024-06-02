@@ -2,11 +2,6 @@
 
 I use these to organize my measurement and marking tools
 
-This two part holder stores a pencil set I purchased from Amazon <br>
-
-
-<img src="pencilholdermodel.png" alt="Pencil Set" width="200"/>
-
 <table>
   <tr>
     <th>Item</th>
@@ -20,7 +15,7 @@ This two part holder stores a pencil set I purchased from Amazon <br>
       </a>
     </td>
     <td>
-TD
+      <img src="pencilholdermodel.png" alt="Pencil Set" width="200"/>
     <td>
         <table>
           <tr>2x <a href="../DDD/4x10x8mm%20Pin.stl"><img src="../DDD/Pin.png"width="200"/></a></tr>
