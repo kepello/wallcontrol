@@ -7,7 +7,6 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 ### Dimensions
 <table>
-    <col>
     <colgroup span="1"></colgroup>
     <colgroup span="2"></colgroup>
     <colgroup span="2"></colgroup>
