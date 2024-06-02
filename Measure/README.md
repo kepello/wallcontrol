@@ -50,7 +50,7 @@ I use these to organize my measurement and marking tools
           <td>1x</td>
           <td>
             <a href="./Pen%20Holder%20Top.stl">
-              <img src="./Pen%20Holder%20Top.png" width="75"/>
+              <img src="./HolderTop.png" width="75"/>
               Top
             </a>
           </td>
@@ -59,7 +59,7 @@ I use these to organize my measurement and marking tools
           <td>1x</td>
           <td>
             <a href="./Pen%20Holder%20Bottom.stl">
-              <img src="./Pen%20Holder%20bottom.png" width="75"/>
+              <img src="./HolderBottom.png" width="75"/>
               Bottom
             </a>
           </td>
