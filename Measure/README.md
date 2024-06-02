@@ -16,6 +16,7 @@ I use these to organize my measurement and marking tools
     </td>
     <td>
       <img src="pencilholdermodel.png" alt="Pencil Set" width="400"/>
+    </td>
     <td>
       <table>
         <tr>
