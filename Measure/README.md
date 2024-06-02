@@ -23,10 +23,10 @@ I use these to organize my measurement and marking tools
               <img src="../DDD/Pin.png"width="400"/>
             </a>
         </tr>
-        <tr>1x [Left Flat Side 1x0](../DDD/FlatSides/1x0%20%20Flat%20Left.stl)</tr>
-        <tr>1x [Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</tr>
-        <tr>1x [Pen Holder Top](./Pen%20Holder%20Top.stl)</tr>
-        <tr>1x [Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)</tr>
+        <tr><td>1x</td>[Left Flat Side 1x0](../DDD/FlatSides/1x0%20%20Flat%20Left.stl)</tr>
+        <tr><td>1x</td>[Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</tr>
+        <tr><td>1x</td>[Pen Holder Top](./Pen%20Holder%20Top.stl)</tr>
+        <tr><td>1x</td>[Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)</tr>
       </table>
     </td>
   </tr>
