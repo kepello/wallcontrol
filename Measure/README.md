@@ -8,9 +8,13 @@ I use these to organize my measurement and marking tools
 
 ## Pencil Storage
 
-This two part holder stores a pencil set I purchased from Amazon [here](https://amzn.to/3VpAreI)<br>
-<img src="pencils.jpg" alt="Pencil Set" width="200"/>
+This two part holder stores a pencil set I purchased from Amazon 
+<a href="https://amzn.to/3VpAreI">
+  <img src="pencils.jpg" alt="Pencil Set" width="200"/>
+</a>
 
+<img src="pencilholdermodel.png" alt="Pencil Set" width="200"/>
+  
 RECIPE:
 
 2x [Connecting Pin](../DDD/4x10x8mm%20Pin.stl)<br>
