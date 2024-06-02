@@ -38,6 +38,7 @@ I use these to organize my measurement and marking tools
         </tr>
         <tr>
           <td>1x</td>
+          <td>
             <a href="../DDD/FlatSides/1x0%20%20Flat%20Right.stl">
               <img src="../DDD/Pin.png" width="400"/>
               1x0 Flat Right
