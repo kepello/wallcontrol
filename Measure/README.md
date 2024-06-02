@@ -32,7 +32,7 @@ I use these to organize my measurement and marking tools
         </tr>
         <tr>
           <td>1x</td>
-          <td></td>[Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</tr>
+          <td><[Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</td>
         </tr>
         <tr>
           <td>1x</td>
