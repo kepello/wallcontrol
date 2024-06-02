@@ -49,7 +49,7 @@ I use these to organize my measurement and marking tools
           <td>
             <a href="./Pen%20Holder%20Top.stl">
               <img src="../DDD/Pin.png" width="400"/>
-              1x0 Flat Right
+              Top
             </a>
           </td>
         </tr>
@@ -58,7 +58,7 @@ I use these to organize my measurement and marking tools
           <td>
             <a href="./Pen%20Holder%20Bottom.stl">
               <img src="../DDD/Pin.png" width="400"/>
-              1x0 Flat Right
+              Bottom
             </a>
           </td>
         </tr>
