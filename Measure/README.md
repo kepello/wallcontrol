@@ -22,7 +22,7 @@ I use these to organize my measurement and marking tools
           <td>2x</td>
           <td>
             <a href="../DDD/4x10x8mm%20Pin.stl">
-              <img src="../DDD/Pin.png"width="400"/>
+              <img src="../DDD/Pin.png" width="400"/>
               Pin
             </a>
           </td>
@@ -31,7 +31,7 @@ I use these to organize my measurement and marking tools
           <td>1x</td>
           <td>
             <a href="../DDD/FlatSides/1x0%20%20Flat%20Left.stl">
-              <img src="" width="400"/>
+              <img src="../DDD/Pin.png" width="400"/>
               1x0 Flat Left
             </a>
           </td>
@@ -39,7 +39,7 @@ I use these to organize my measurement and marking tools
         <tr>
           <td>1x</td>
             <a href="../DDD/FlatSides/1x0%20%20Flat%20Right.stl">
-              <img src="" width="400"/>
+              <img src="../DDD/Pin.png" width="400"/>
               1x0 Flat Right
             </a>
           </td>
@@ -48,7 +48,7 @@ I use these to organize my measurement and marking tools
           <td>1x</td>
           <td>
             <a href="./Pen%20Holder%20Top.stl">
-              <img src="" width="400"/>
+              <img src="../DDD/Pin.png" width="400"/>
               1x0 Flat Right
             </a>
           </td>
@@ -57,7 +57,7 @@ I use these to organize my measurement and marking tools
           <td>1x</td>
           <td>
             <a href="./Pen%20Holder%20Bottom.stl">
-              <img src="" width="400"/>
+              <img src="../DDD/Pin.png" width="400"/>
               1x0 Flat Right
             </a>
           </td>
