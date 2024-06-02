@@ -23,11 +23,11 @@ This two part holder stores a pencil set I purchased from Amazon <br>
 
     </td>
         <table>
-          <tr>2x <a href="../DDD/4x10x8mm%20Pin.stl"><img src="../DDD/Pin.png"width="200"/></a></td>
-          <tr>1x [Left Flat Side 1x0](../DDD/FlatSides/1x0%20%20Flat%20Left.stl)</td>
-          <tr>1x [Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</td>
-          <tr>1x [Pen Holder Top](./Pen%20Holder%20Top.stl)</td>
-          <tr>1x [Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)</td>
+          <tr>2x <a href="../DDD/4x10x8mm%20Pin.stl"><img src="../DDD/Pin.png"width="200"/></a></tr>
+          <tr>1x [Left Flat Side 1x0](../DDD/FlatSides/1x0%20%20Flat%20Left.stl)</tr>
+          <tr>1x [Right Flat Side 1x0](../DDD/FlatSides/1x0%20Flat%20Right.stl)</tr>
+          <tr>1x [Pen Holder Top](./Pen%20Holder%20Top.stl)</tr>
+          <tr>1x [Pen Holder Bottom](./Pen%20Holder%20Bottom.stl)</tr>
         </table>
   </tr>
 </table>
