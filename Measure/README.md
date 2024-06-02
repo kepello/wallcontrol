@@ -8,7 +8,7 @@ I use these to organize my measurement and marking tools
 
 ## Pencil Storage
 
-This two part holder stores a pencil set I purchased from Amazon 
+This two part holder stores a pencil set I purchased from Amazon <br>
 <a href="https://amzn.to/3VpAreI">
   <img src="pencils.jpg" alt="Pencil Set" width="200"/>
 </a>
