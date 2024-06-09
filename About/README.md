@@ -40,7 +40,7 @@ These are the dimensions I have found to be compatible with the DDD system.  The
         <td>1.90551</td>
         <td>50.6</td>
         <td>1.99213</td> 
-        <td>57.15</td>
+        <td>58.15</td>
         <td>2.25</td>
     </tr>
     <tr>
