@@ -174,14 +174,16 @@ These are the dimensions I have found to be compatible with the DDD system.  The
 
 I prefer creating my accessories leaving holes for connecting pins .  This is easier to align and print without dealing with supports on my machine.  DDD provides the model for these connecting pins as well as compatible sides.
 
-
-
 ### About Wallcontrol
 
 Wallcontrol makes amazing metal slotted pegboard!
 
 The dimensions are 1/4" Holes on 1" center grid, 1" high slots on every other row.
 
-<img src="WallcontrolSpacing.png" alt="drawing" width="400"/>
+<table>
+    <tr>
+        <td><img src="WallcontrolSpacing.png" alt="drawing" width="400"/></td>
+        <td><img src="WallControlPanel.jpg" alt="drawing" width="400"/></td>
+    </tr>
 
-<img src="WallControlPanel.jpg" alt="drawing" width="400"/>
+</table>
