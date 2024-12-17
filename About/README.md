@@ -184,4 +184,4 @@ The dimensions are 1/4" Holes on 1" center grid, 1" high slots on every other ro
 
 <img src="WallcontrolSpacing.png" alt="drawing" width="400"/>
 
-<img src="WallControl Panel 3d Print Drawging v3.jpg" alt="drawing" width="400"/>
+<img src="WallControlPanel.jpg" alt="drawing" width="400"/>
